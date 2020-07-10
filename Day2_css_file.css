@@ -1,0 +1,73 @@
+.brandname{
+    margin-left: 17px; 
+    font-size: 30px; 
+    color: #F4F400;
+}
+
+.dropdown{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.heading{
+    font-size: 30px;  
+    color: #E81717; 
+    margin-left: 40px;  
+    margin-top: 45px;
+}
+
+.intro{
+    font-size: 18px;  
+    color: black; 
+    margin-left: 40px;  
+    margin-top: 20px; 
+    margin-right: 100px; 
+    text-align: justify;
+}
+
+.bullet{
+    font-size: 13px; 
+    color: #E81717;
+}
+
+.link{
+    margin-left: 20px; 
+    color:blueviolet;
+}
+
+.para{
+    font-size: 16.5px;
+    margin-left: 40px; 
+    margin-right: 40px; 
+    text-align: justify;
+}
+
+.para1{
+    font-size: 16.5px; 
+    margin-left: 9px;
+    margin-right: 40px; 
+    margin-top: 20px; 
+    text-align: justify;
+}
+
+.connect{
+    font-size: 16.5px; 
+    margin-left: 40px; 
+    margin-right: 40px; 
+    margin-top: 20px; 
+    text-align: justify;
+}
+
+.submit{
+    margin-left: 132px;
+    margin-top: 15px; 
+    margin-bottom: 20px; 
+    width: 100px; 
+    height: 42px;
+}
+
+.icon{
+    font-size: 19px; 
+    color: #07469B; 
+    margin-right: 10px;
+}
